@@ -1,0 +1,5 @@
+﻿  Supermarket Billing System.cpp
+D:\Things\Code\Microsoft Visual Studio\Spring - 2022\OOP_C++\Supermarket Billing System.cpp(352,21): warning C4129: 'B': unrecognized character escape sequence
+D:\Things\Code\Microsoft Visual Studio\Spring - 2022\OOP_C++\Supermarket Billing System.cpp(359,22): warning C4129: 'B': unrecognized character escape sequence
+D:\Things\Code\Microsoft Visual Studio\Spring - 2022\OOP_C++\Supermarket Billing System.cpp(734,6): warning C4101: 'new_code_product': unreferenced local variable
+  OOP_C++.vcxproj -> D:\Things\Code\Microsoft Visual Studio\Spring - 2022\x64\Debug\OOP_C++.exe
